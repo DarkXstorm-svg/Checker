@@ -1,5 +1,3 @@
+flask
 requests
 pycryptodome
-colorama
-rich
-cloudscraper
